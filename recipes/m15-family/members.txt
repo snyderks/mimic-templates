@@ -1,0 +1,13 @@
+proxyshop.normal
+proxyshop.normal-vector
+proxyshop.split
+proxyshop.transform
+proxyshop.mdfc
+proxyshop.pw
+proxyshop.pw-mdfc
+proxyshop.pw-transform
+proxyshop.leveler
+proxyshop.mutate
+proxyshop.prototype
+proxyshop.battle
+proxyshop.vertical-mode
