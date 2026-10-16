@@ -1,0 +1,3 @@
+proxyshop.pw-extended
+proxyshop.pw-mdfc-extended
+proxyshop.pw-transform-extended
